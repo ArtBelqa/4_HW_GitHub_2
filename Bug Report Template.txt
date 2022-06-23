@@ -1,0 +1,19 @@
+Bug Report Template
+ID number
+Name
+Reporter
+Submit Date
+Summary
+URL
+Screenshot
+Platform
+Operating System
+Browser
+Severity
+Assigned to
+Priority
+Description
+Steps to reproduce
+Expected result
+Actual result
+Notes
